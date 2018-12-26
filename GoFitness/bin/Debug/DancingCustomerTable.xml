@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <Customers>
+    <First_Name>haitham</First_Name>
+    <Last_Name>khateeb</Last_Name>
+    <ID>000023445</ID>
+    <Age>30</Age>
+    <Phone_Number>0526499322</Phone_Number>
+    <Email>aaa@aa.com</Email>
+    <User_Name>haitham</User_Name>
+    <Password>12345</Password>
+    <Weight>78</Weight>
+  </Customers>
+  <Customers>
+    <First_Name>khaled</First_Name>
+    <Last_Name>zoabi</Last_Name>
+    <ID>311556567</ID>
+    <Age>21</Age>
+    <Phone_Number>0547437451</Phone_Number>
+    <Email>bb@bb.com</Email>
+    <User_Name>khalizo1</User_Name>
+    <Password>12345</Password>
+    <Weight>93</Weight>
+  </Customers>
+</Customers>

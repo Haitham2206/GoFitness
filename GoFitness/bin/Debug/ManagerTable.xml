@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Managers>
+  <Manager>
+    <First_Name>admin</First_Name>
+    <Last_Name>admin</Last_Name>
+    <ID>123456789</ID>
+    <Age>45</Age>
+    <Phone_Number>0000000000</Phone_Number>
+    <Email>hhh@hhh.com</Email>
+    <User_Name>admin</User_Name>
+    <Password>admin</Password>
+    <Balance>40000</Balance>
+  </Manager>
+</Managers>

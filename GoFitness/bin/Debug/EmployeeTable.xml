@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Employees>
+  <Employee>
+    <First_Name>Haitham</First_Name>
+    <Last_Name>Khateeb</Last_Name>
+    <ID>123456789</ID>
+    <Age>30</Age>
+    <Phone_Number>0526499322</Phone_Number>
+    <Email>aaa@aa.com</Email>
+    <User_Name>haitham11</User_Name>
+    <Password>12345</Password>
+  </Employee>
+</Employees>

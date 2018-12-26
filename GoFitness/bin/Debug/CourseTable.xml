@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<Courses>
+  <Courses>
+    <Price>1800</Price>
+    <Code_Of_Course>1</Code_Of_Course>
+    <Quantity_Of_Members>11</Quantity_Of_Members>
+    <IsAvailable>true</IsAvailable>
+    <Name_Of_Course>Swimming</Name_Of_Course>
+    <Join_Date>01/01/2016</Join_Date>
+    <Expiration_Date>01/01/2017</Expiration_Date>
+    <MaxCapacity>15</MaxCapacity>
+  </Courses>
+  <Courses>
+    <Price>1600</Price>
+    <Code_Of_Course>2</Code_Of_Course>
+    <Quantity_Of_Members>15</Quantity_Of_Members>
+    <IsAvailable>true</IsAvailable>
+    <Name_Of_Course>Dancing</Name_Of_Course>
+    <Join_Date>01/01/2016</Join_Date>
+    <Expiration_Date>01/01/2017</Expiration_Date>
+    <MaxCapacity>1500</MaxCapacity>
+  </Courses>
+  <Courses>
+    <Price>3600</Price>
+    <Code_Of_Course>3</Code_Of_Course>
+    <Quantity_Of_Members>150</Quantity_Of_Members>
+    <IsAvailable>true</IsAvailable>
+    <Name_Of_Course>Gym</Name_Of_Course>
+    <Join_Date>01/01/2016</Join_Date>
+    <Expiration_Date>01/01/2017</Expiration_Date>
+    <MaxCapacity>150000</MaxCapacity>
+  </Courses>
+</Courses>

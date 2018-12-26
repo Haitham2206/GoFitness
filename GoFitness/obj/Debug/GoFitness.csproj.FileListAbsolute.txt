@@ -1,0 +1,233 @@
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+c:\users\khaled\documents\visual studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+C:\Users\khaled\Documents\Visual Studio 2013\Projects\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+C:\Users\Haitham\Desktop\כנרת\שנה ב הנדסת תוכנה\סמסטר א\מבוא לתכנות מערכות\פרויקט\כמעט הסוף\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\bin\Debug\GoFitness.exe.config
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.exe
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.pdb
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\bin\Debug\GoFitness.exe
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\bin\Debug\GoFitness.pdb
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Admin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Employee.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Guest.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.MainPage.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.MemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Register.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.Receipt.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.User.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\bin\Debug\GoFitness.exe.config
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.exe
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.pdb
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\bin\Debug\GoFitness.exe
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\bin\Debug\GoFitness.pdb
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Admin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Employee.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Guest.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.MainPage.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.MemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Register.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.Receipt.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.User.resources
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc111\GoFitness\bin\Debug\GoFitness.exe.config
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.exe
+E:\פרויקט אתמ\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.pdb
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\bin\Debug\GoFitness.exe.config
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.exe
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.pdb
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\bin\Debug\GoFitness.exe
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\bin\Debug\GoFitness.pdb
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Admin.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Employee.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Guest.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.MainPage.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.MemberList.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Register.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.Receipt.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.SendMail.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.User.resources
+C:\Users\21\Desktop\GoFitness מתקדם גיבוי with printFunc111\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+C:\Users\21\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.SendMail.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+C:\Users\21\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+C:\Users\21\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+C:\Users\21\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+E:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+E:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+E:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.SendMail.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+I:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+I:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+I:\מתמ\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.SendMail.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+I:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache
+E:\מתמ\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.exe.config
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.exe
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.pdb
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.exe
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\bin\Debug\GoFitness.pdb
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.csprojResolveAssemblyReference.cache
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Admin.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.CoursesAdmin.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.CourseUser.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.DancingMemberList.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Employee.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.EmployeeList.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Guest.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.GymMemberList.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.MainPage.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.MemberList.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.PersonalDetalisUser.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Properties.Resources.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Register.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.Receipt.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.SendMail.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.ShopAdmin.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.ShopUser.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.SwimmingMemberList.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.User.resources
+C:\Users\Haitham\Desktop\GoFitness\GoFitness\obj\Debug\GoFitness.csproj.GenerateResource.Cache

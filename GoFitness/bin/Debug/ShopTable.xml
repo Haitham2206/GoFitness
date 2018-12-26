@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<Shop>
+  <Shop>
+    <Product_Price>500</Product_Price>
+    <Product_Name>protine</Product_Name>
+    <Product_Code>1</Product_Code>
+    <Quantity>19</Quantity>
+    <isAvailable>true</isAvailable>
+  </Shop>
+  <Shop>
+    <Product_Price>500</Product_Price>
+    <Product_Name>trx</Product_Name>
+    <Product_Code>23</Product_Code>
+    <Quantity>7</Quantity>
+    <isAvailable>true</isAvailable>
+  </Shop>
+</Shop>

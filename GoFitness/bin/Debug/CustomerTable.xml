@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<Customers>
+  <Customers>
+    <First_Name>haitham</First_Name>
+    <Last_Name>khateeb</Last_Name>
+    <ID>000023445</ID>
+    <Age>30</Age>
+    <Phone_Number>0526499322</Phone_Number>
+    <Email>haitham.kh1985@gmail.com</Email>
+    <Weight>78</Weight>
+    <User_Name>haitham1</User_Name>
+    <Password>12345</Password>
+    <Course1>Gym</Course1>
+    <Course2>Dancing</Course2>
+    <Course3>Swimming</Course3>
+  </Customers>
+  <Customers>
+    <First_Name>khaled</First_Name>
+    <Last_Name>zoabi</Last_Name>
+    <ID>311556567</ID>
+    <Age>21</Age>
+    <Phone_Number>0547437451</Phone_Number>
+    <Email>khaled@aaa.com</Email>
+    <Weight>150</Weight>
+    <User_Name>khalizo1</User_Name>
+    <Password>12345</Password>
+    <Course1>Gym</Course1>
+    <Course2>Dancing</Course2>
+    <Course3 />
+  </Customers>
+  <Customers>
+    <First_Name>omr</First_Name>
+    <Last_Name>massalha</Last_Name>
+    <ID>322433546</ID>
+    <Age>31</Age>
+    <Phone_Number>0547846451</Phone_Number>
+    <Email>bb@bb.com</Email>
+    <Weight>77</Weight>
+    <User_Name>pmr1</User_Name>
+    <Password>12345</Password>
+    <Course1>Gym</Course1>
+    <Course2 />
+    <Course3>Swimming</Course3>
+  </Customers>
+</Customers>

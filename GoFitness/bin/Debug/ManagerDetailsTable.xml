@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Managers>
+  <Manager>
+    <First_Name>Haitham</First_Name>
+    <Last_Name>Khateeb</Last_Name>
+    <ID>037008802</ID>
+    <Age>30</Age>
+    <Phone_Number>0526499322</Phone_Number>
+    <Email>haitham.kh1985@gmail.com</Email>
+    <User_Name>admin1</User_Name>
+    <Password>admin1</Password>
+  </Manager>
+  <Manager>
+    <First_Name>Khalid</First_Name>
+    <Last_Name>Zoabi</Last_Name>
+    <ID>037008802</ID>
+    <Age>22</Age>
+    <Phone_Number>0526499322</Phone_Number>
+    <Email>haitham.kh1985@gmail.com</Email>
+    <User_Name>admin2</User_Name>
+    <Password>admin2</Password>
+  </Manager>
+</Managers>
